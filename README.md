@@ -16,12 +16,12 @@ gtk4 base-devel cargo
 ```
 
 # How To Run
-Clone this repository and run to run the program without compiling.
+Clone this repository and run this command to run the program without compiling:
 ```
 cargo run
 ```
 
-You can use to compile it.
+You can compile it with:
 ```
 cargo build --release
 ```
